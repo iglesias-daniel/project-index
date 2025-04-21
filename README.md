@@ -5,7 +5,7 @@ Hi! My name is Daniel, and this is my project index. Here you can find all my pr
 # 🛠️ Projects
 
 
-## 📄 SystemVerilog/Verilog Projects
+## 📄 SystemVerilog
 
 ### 🔹 [sv-configurable-updown-counter](https://github.com/iglesias-daniel/sv-configurable-updown-counter)
 **Description:** Configurable counter with enable, reset, and direction (up/down).  
@@ -17,7 +17,7 @@ Hi! My name is Daniel, and this is my project index. Here you can find all my pr
 **Technologies:** Verilog, SystemVerilog, icarus, gtkwave  
 
 
-## 📄 C/C++ Projects
+## 📄 C/C++
 
 ### 🔹 [cpp-numerical-analysis](https://github.com/iglesias-daniel/cpp-numerical-analysis)
 **Description:** Numerical analysis library written in C with C++ compatibility.  
