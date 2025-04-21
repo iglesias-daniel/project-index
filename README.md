@@ -8,7 +8,7 @@ Hi! My name is Daniel, and this is my project index. Here you can find all my pr
 ## 📄 SystemVerilog
 
 ### 🔹 [sv-configurable-updown-counter](https://github.com/iglesias-daniel/sv-configurable-updown-counter)
-**Description:** Configurable counter with enable, reset, and direction (up/down).  
+**Description:** Configurable up/down counter with enable and reset, accessible via APB interface.  
 **Technologies:** Verilog, SystemVerilog, icarus, gtkwave  
 
 
