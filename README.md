@@ -16,6 +16,9 @@ Hi! My name is Daniel, and this is my project index. Here you can find all my pr
 **Description:** A traffic light (european) controller implemented as a FSM using SystemVerilog.  
 **Technologies:** Verilog, SystemVerilog, icarus, gtkwave  
 
+### 🔹 [sv-uart-rx-tx](https://github.com/iglesias-daniel/sv-uart-rx-tx)
+**Description:** Synchronous UART RX/TX core in Verilog, featuring baud rate control, start/stop bit detection, and shift-based serial communication.  
+**Technologies:** Verilog, SystemVerilog, icarus, gtkwave 
 
 ## 📄 C/C++
 
