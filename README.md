@@ -20,6 +20,10 @@ Hi! My name is Daniel, and this is my project index. Here you can find all my pr
 **Description:** Synchronous UART RX/TX core in Verilog, featuring baud rate control, start/stop bit detection, and shift-based serial communication.  
 **Technologies:** Verilog, SystemVerilog, icarus, gtkwave 
 
+### 🔹 [FPGA-iCEBreaker-Test-Modules](https://github.com/iglesias-daniel/FPGA-iCEBreaker-Test-Modules)
+**Description:** A kit of different Verilog Block Code for Icestudio to test modules connected to an iCEBreaker V1.0e.
+**Technologies:** Verilog, SystemVerilog, Icestudio, iCEBreaker FPGA
+
 ## 📄 C/C++
 
 ### 🔹 [cpp-numerical-analysis](https://github.com/iglesias-daniel/cpp-numerical-analysis)
